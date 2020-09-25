@@ -7,7 +7,8 @@ It includes two pdf :
 * the subject of the project
 * my report
 
-It includes one jupiter notebook file with all the code generated for the project
+It includes one jupiter notebook file with all the code generated for the project :
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EricKiennemann/Metaheuristic/master)
 
 In this Repositary the used skills are
 
