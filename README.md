@@ -8,9 +8,7 @@ It includes two pdf :
 * my report
 
 It includes one jupiter notebook file with all the code generated for the project :
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EricKiennemann/Metaheuristic/master)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EricKiennemann/Metaheuristic/master?urlpath=https%3A%2F%2Fgithub.com%2FEricKiennemann%2FMetaheuristic%2Fblob%2Fmaster%2FMeta-Heuristic%2520project.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EricKiennemann/Metaheuristic/master?filepath=Meta-Heuristic%20project.ipynb)
 
 In this Repositary the used skills are
 
