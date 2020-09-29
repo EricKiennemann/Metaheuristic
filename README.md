@@ -12,10 +12,10 @@ It includes one jupiter notebook file with all the code generated for the projec
 
 In this Repositary the used skills are
 
-### Language
+## Language
 * Python
 
-### Tools and tehcnics
+## Tools and tehcnics
 * Particle Swarm Optimization
 * Gradient method
 * Uzawa’s algorithm
